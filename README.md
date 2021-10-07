@@ -1,1 +1,1 @@
-# Git OneFlow example
+# Git OneFlow sample
